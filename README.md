@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi there 👋,
+I'm Numan. A creative and self-taught frontend web developer who builds projects in public. All of the projects I've worked on so far were conceptualised, designed, and coded by me. I'm focused on building websites with vanilla JavaScript, along with HTML, CSS, and uses frameworks like ReactJS, NextJS and Tailwind CSS, also I'm looking forward to use Three.js for my upcoming projects. I'm always up for working together. Reach out to me if you've enjoyed any of my work or have any suggestions for improvement!
 
 <!--
 **numan-being/numan-being** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
